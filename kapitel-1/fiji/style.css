@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playpen+Sans:wght@100..800&display=swap');
+
+body {
+    background-image: url("./bilder/nora-long-ALyaAQ8nvF0-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-size: 100px;
+    color: aliceblue;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 pink;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+    text-shadow: 3px 3px 0 pink;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+p {
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: pink;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 1000px;
+
+
+}
