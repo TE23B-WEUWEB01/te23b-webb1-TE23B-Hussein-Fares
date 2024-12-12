@@ -1,6 +1,6 @@
-/* Färgpalett */
+
 :root {
-    /* CSS HEX */
+    
     --barn-red: #780000ff;
     --fire-brick: #c1121fff;
     --papaya-whip: #fdf0d5ff;
@@ -8,7 +8,7 @@
     --air-superiority-blue: #669bbcff;
 }
 
-/* Enkel CSS-reset */
+
 html {
     box-sizing: border-box;
 }
@@ -38,22 +38,42 @@ body {
 }
 .inlägg {
     background-color: var(--barn-red);
-    padding: 50px;
-    margin-bottom: 40px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    gap: 15px;
+}
+.inlägg1{
+     background-color: var(--barn-red);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    gap: 15px;
 }
 
-/* Innehållets utseende */
+
 h1 {
    color: cadetblue;
+   text-align: center;
     
 }
 h2 {
 
 }
-img {
-    width: 90%;
 
+
+.imgintresse{
+width: 100%;
 }
+
+.imgintresse2{
+    width: 100%;
+}
+
+.imgintresse3{
+width: 100%;
+}
+
 .datum {
 
 }
